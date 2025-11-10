@@ -1,5 +1,5 @@
 # **Tesla Deliveries Exploratory Data Analysis (2015-2025)**
---
+
 
 ## **Executive Summary**
 This project conducts an Exploratory Data Analysis (EDA) on Tesla's global electric vehicle data, spanning from **2015 to 2025**. The dataset captures Tesla's decade-long journey of innovation, production scaling, market growth, and environmental impact. By examining delivery trends, production efficiency, vehicle specifications, and sustainability metrics, the analysis highlights Tesla's evolution as a leader in electric mobility. It identifies key performance patterns that support future forecasting, pricing optimization, and sustainability initiatives.
@@ -80,7 +80,7 @@ Tesla’s decade-long performance reflects the synergy between innovation, produ
 
 **Source:** Aggregated dataset representing Tesla’s electric vehicle production, deliveries, and sustainability metrics worldwide between **2015 and 2025**. The dataset compiles insights on manufacturing scale, technological advancement, pricing evolution, and environmental impact across Tesla’s major global regions and vehicle models.
 
-**File:** `[cleaned_tesla_deliveries.csv]`(https://github.com/raidarasul-sys/raida-portfolio/blob/main/cleaned_tesla_deliveries.csv)
+**File:** **File:** [`cleaned_tesla_deliveries.csv`](https://github.com/raidarasul-sys/raida-portfolio/blob/main/cleaned_tesla_deliveries.csv)
 
 **Contents:**
 - `year` — Year of record (2015–2025)  
