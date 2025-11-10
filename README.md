@@ -80,7 +80,7 @@ Tesla’s decade-long performance reflects the synergy between innovation, produ
 
 **Source:** Aggregated dataset representing Tesla’s electric vehicle production, deliveries, and sustainability metrics worldwide between **2015 and 2025**. The dataset compiles insights on manufacturing scale, technological advancement, pricing evolution, and environmental impact across Tesla’s major global regions and vehicle models.
 
-**File:** **File:** [`cleaned_tesla_deliveries.csv`](https://github.com/raidarasul-sys/raida-portfolio/blob/main/cleaned_tesla_deliveries.csv)
+**File:** [`cleaned_tesla_deliveries.csv`](https://github.com/raidarasul-sys/raida-portfolio/blob/main/cleaned_tesla_deliveries.csv)
 
 **Contents:**
 - `year` — Year of record (2015–2025)  
