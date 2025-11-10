@@ -1,5 +1,4 @@
 # **Tesla Deliveries Exploratory Data Analysis (2015-2025)**
-
 --
 
 ## **Executive Summary**
