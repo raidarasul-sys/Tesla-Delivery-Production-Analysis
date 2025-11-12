@@ -62,13 +62,13 @@ Tesla’s data reveals exponential growth and operational precision. The near-pe
 - Data distributions show right-skewed growth, validating Tesla’s accelerating global adoption.
 
 ### Operational Recommendations
-- **1. Optimize Production Forecasting:**  
+**1. Optimize Production Forecasting:**  
   Implement predictive models to forecast demand by model and region for resource alignment.  
-- **2. Expand Charging Infrastructure in Emerging Markets:**  
+**2. Expand Charging Infrastructure in Emerging Markets:**  
   Target infrastructure investment in the Asia-Pacific region, driven by rising adoption.  
-- **3. Continue Cost Reduction through Battery Innovation:**  
+**3. Continue Cost Reduction through Battery Innovation:**  
   Enhance energy density to maintain profitability while improving performance.  
-- **4. Strengthen Sustainability Reporting:**
+**4. Strengthen Sustainability Reporting:**
   Integrate CO₂ and charging growth metrics into executive dashboards for strategic tracking.
 
 ### Key Takeaway
