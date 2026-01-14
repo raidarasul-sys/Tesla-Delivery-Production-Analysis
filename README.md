@@ -25,7 +25,7 @@ Tesla’s growth strategy relies on balancing production capacity, market demand
 ### **Skills**
 - **Language:** Python
 - **Libraries:** Pandas, Numpy, Matplotlib, Seaborn, Plotly
-- **Tools:** Power BI, Jupyter Notebook
+- **Tools:** Jupyter Notebook
 - **Techniques:** Data Cleaning, EDA, Correlation Analysis, Statistical Summary, Time-Series Visualization
 
 ## **Key Performance Indicators (KPIs)**
